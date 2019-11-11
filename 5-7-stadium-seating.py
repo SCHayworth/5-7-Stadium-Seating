@@ -1,7 +1,7 @@
 # 5-7 Stadium Seating
 # Shaun Hayworth
 # CIS 2
-# mm-dd-2019
+# 11-10-2019
 # Source code and revision history are available at
 #   https://github.com/SCHayworth/5-7-Stadium-Seating
 
